@@ -1,0 +1,3 @@
+./banners/ad3.jpg|516|1
+./banners/ad1.jpg|520|5
+./banners/ad2.jpg|520|5

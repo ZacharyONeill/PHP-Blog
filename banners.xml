@@ -1,0 +1,5 @@
+<banners>
+	<banner name = "./banners/ad1.jpg" count = "0" weight = "3" />
+	<banner name = "./banners/ad2.jpg" count = "0" weight = "2" />
+	<banner name = "./banners/ad3.jpg" count = "0" weight = "1" />
+</banners>
